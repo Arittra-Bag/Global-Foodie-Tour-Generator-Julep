@@ -2,6 +2,8 @@
 
 An interactive Gradio chat app that generates personalized one-day foodie tours for any cities in the world—powered by a Julep AI agent.
 
+**🚀 Try it live**: [https://huggingface.co/spaces/arittrabag/Foodie_Tour_Planner-Julep](https://huggingface.co/spaces/arittrabag/Foodie_Tour_Planner-Julep)
+
 ## Features
 
 - **Chat Interface**: Simple, intuitive Gradio-based chat UI
